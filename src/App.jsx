@@ -1,13 +1,14 @@
-
+import BotCollection from './components/BotsCollection'
 import './App.css'
 
 function App() {
-  
 
+  
   return (
     <>
-Hello
+    <BotCollection/>
     </>
+    
   )
 }
 
